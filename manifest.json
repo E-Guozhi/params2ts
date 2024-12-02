@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "My First Chrome Extension",
+  "description": "我的第一个Chrome扩展",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
