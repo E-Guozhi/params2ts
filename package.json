@@ -1,0 +1,11 @@
+{
+  "name": "params2ts",
+  "version": "1.0.0",
+  "description": "接口文档的入参出参转ts对象，chrome扩展",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EGuozhi",
+  "license": "ISC"
+}
